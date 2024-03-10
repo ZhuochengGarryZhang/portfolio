@@ -11,7 +11,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-
+		prerender: { handleMissingId: "ignore"},
 		files: { assets: 'src/content' },
 
 		paths: {
