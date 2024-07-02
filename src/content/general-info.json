@@ -1,23 +1,23 @@
 {
-  "firstName": "Etienne",
-  "lastName": "Naude",
+  "firstName": "Zhuocheng",
+  "lastName": "Zhang",
   "heroImage": "thoughtfulImg_qd1fsv.webp",
-  "tagLine": "Software and Design",
+  "tagLine": "Materials Modelling and Failure Prediction",
   "contacts": [
     {
       "type": "Email",
-      "displayText": "eti@naude.dev",
+      "displayText": "zxz910@student.bham.ac.uk",
       "url": "mailto:eti@naude.dev"
     },
     {
       "type": "LinkedIn",
-      "displayText": "linkedin.com/in/etinaude/",
-      "url": "https://www.linkedin.com/in/etinaude/"
+      "displayText": "linkedin.com/in/zhuocheng-zhang/",
+      "url": "https://www.linkedin.com/in/zhuocheng-zhang-416770230/"
     },
     {
       "type": "GitHub",
-      "displayText": "github.com/etinaude",
-      "url": "https://github.com/etinaude"
+      "displayText": "github.com/ZhuochengGarryZhang",
+      "url": "https://github.com/ZhuochengGarryZhang"
     }
   ]
 }
