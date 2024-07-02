@@ -1,13 +1,13 @@
 {
   "firstName": "Zhuocheng",
   "lastName": "Zhang",
-  "heroImage": "thoughtfulImg_qd1fsv.webp",
+  "heroImage": "",
   "tagLine": "Materials Modelling and Failure Prediction",
   "contacts": [
     {
       "type": "Email",
       "displayText": "zxz910@student.bham.ac.uk",
-      "url": "mailto:eti@naude.dev"
+      "url": "mailto:zxz910@student.bham.ac.uk"
     },
     {
       "type": "LinkedIn",
