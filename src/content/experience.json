@@ -3,5 +3,10 @@
     "title": "Researcher in Data Analysis, Signal Processing and Modelling",
     "description": "During the research, I designed a digital model of a 5m wind turbine blade in CAD, used CFD & FEA for monitoring, trained a failure mode recognition model using acoustic data, and applied machine learning in MATLAB for failure prediction, integrating the algorithm into ANSYS.",
     "image_url": "Wind_Turbine_Image.webp"
-  }
+  },
+  {
+    "title": "Researcher in CFD & FEA",
+    "description": "I implemented one-way fluid-structure interaction to determine the pressure distribution on a floating IEA offshore wind turbine blade, mapped CFD pressure to FEA with 100% node matching, reduced blade thickness in FEA to simulate offshore erosion, cutting computational time by 60%, and achieved 86% accuracy in stress distribution patterns compared to the current state-of-the-art.",
+    "image_url": "Wind_Turbine_Image.webp"
+  }  
 ]
