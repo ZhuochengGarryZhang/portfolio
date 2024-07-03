@@ -47,9 +47,6 @@
   <a class="button more-projects-btn" href={`${base}/projects`}> More Projects →</a>
 </section>
 
-<section id="work">
-  <h2>Current Work</h2>
-</section>
 
 <section id="awards">
   <h2>Experience</h2>
